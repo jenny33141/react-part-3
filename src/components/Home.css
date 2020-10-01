@@ -1,0 +1,8 @@
+.homeContainer {
+    background-color: orange;
+    height:100vh
+}
+
+.homeContainer h1{
+    margin: 0;
+}

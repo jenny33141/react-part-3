@@ -1,0 +1,8 @@
+.aboutContainer {
+    background-color: red;
+    height: 100vh
+}
+
+.aboutContainer h1 {
+     margin:0    
+}
